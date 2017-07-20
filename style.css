@@ -1,0 +1,11 @@
+a { color: darkblue; }
+
+.black { background-color: black; }
+.darkgray { background-color: darkgray; }
+
+.black-links a { color: black; }
+
+// Icons
+#github {
+    background-image: url(../images/github.gif);
+}
