@@ -2,6 +2,9 @@ a { color: darkblue; }
 
 .black { background-color: black; }
 .darkgray { background-color: darkgray; }
+.blue { background-color: blue; }
+.pretty-fa{ background-color: rgb(15, 55, 81); }
+.app-bg{ linear-gradient(135deg, #1a8fdd 0%, #4bcaea 100%; }
 
 .black-links a { color: black; }
 
