@@ -1,0 +1,11 @@
+TODOs:
+
+General Ideas:
+- Keep it as simple as possible
+
+TODO:
+- setup basic confirm or input windows to get required data
+  - clientID
+  - apiAccessKey
+  - ...
+- 
